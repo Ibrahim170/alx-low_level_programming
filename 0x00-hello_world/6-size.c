@@ -4,7 +4,7 @@
  * code
  * Return: 0
 */
-int void(main)
+int main(void)
 {
     char a;
     int b;
