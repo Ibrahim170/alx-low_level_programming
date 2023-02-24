@@ -10,12 +10,12 @@ int _isupper(int c)
 {
 int chr;
 
-for (chr = 'A'; chr <= 'Z'; chr++ )
+for (chr = 'A'; chr <= 'Z'; chr++)
 {
 if (c == chr)
 {
 return (1);
 }
 }
-return(0);
+return (0);
 }
