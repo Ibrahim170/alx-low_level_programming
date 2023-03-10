@@ -18,6 +18,6 @@ if (b > largest)
 
 if (c > largest)
     largest = c;
-    
+
 return (largest);
 }
